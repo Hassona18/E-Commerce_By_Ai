@@ -119,7 +119,18 @@ To create a seamless and engaging experience for readers by offering AI-driven b
 - **AI Accuracy**: Delivers precise predictions based on preferences and reading history.
 - **Intuitive Interface**: Accessible and engaging for all age groups.
 - **Improved Accessibility**: Translation and TTS make books available for non-native speakers and auditory learners.
+- **Competitive Advantage**: Unique features and AI-driven recommendations differentiate the platform from competitors.
+- **Revenue Streams**: Subscription model, affiliate programs, and targeted advertising provide multiple revenue channels.
+- **Scalability**: AI-driven models can handle large user bases and diverse content.
+- **Continuous Improvement**: AI updates ensure the platform stays relevant and engaging over time.
+- **Data Insights**: AI-driven analytics provide valuable insights into user behavior and preferences.
+- **Cross-Platform Compatibility**: Ensures a seamless reading experience across various devices and platforms.
+- **Community Building**: Encourages user interaction and discussion through forums and reviews.
+- **Content Expansion**: AI-driven recommendations can suggest new titles and authors based on user preferences.
+- **Accessibility Features**: TTS and translation make the platform accessible to users with disabilities.
 
+---
 
+## Live Preview
+[View](https://hassona18.github.io/E-Commerce_By_Ai/)
 
-[Viwe](https://hassona18.github.io/E-Commerce_By_Ai/)
