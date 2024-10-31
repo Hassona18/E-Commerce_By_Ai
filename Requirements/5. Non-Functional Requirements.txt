@@ -1,0 +1,22 @@
+These focus on the performance, security, and scalability of the system.
+
+    Performance:
+        The system must be able to handle high traffic volumes and multiple concurrent users.
+        Quick response times for search, recommendations, and order processing.
+
+    Scalability:
+        The platform should be horizontally scalable to support growing user numbers, using microservices architecture.
+        The AI models must dynamically scale based on the increasing dataset.
+
+    Security:
+        Secure authentication with password encryption using bcrypt or argon2.
+        Data security using SSL for communications and encryption of sensitive information.
+        Implement fraud detection to prevent malicious transactions.
+
+    Availability:
+        Ensure high availability with data replication and server redundancy.
+        99.9% uptime with disaster recovery mechanisms in place.
+
+    Usability:
+        Simple, intuitive UI design to allow easy navigation and fast checkouts.
+        Multilingual support to cater to a global audience.

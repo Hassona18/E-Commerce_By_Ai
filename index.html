@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مكتبة الذكاء الاصطناعي</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <img src="images/logo.png" alt="شعار المكتبة">
+            </div>
+            <ul>
+                <li><a href="#home">الرئيسية</a></li>
+                <li><a href="#services">الخدمات</a></li>
+                <li><a href="#about">عن المكتبة</a></li>
+                <li><a href="#contact">اتصل بنا</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home">
+            <h1>مرحباً بك في مكتبة الذكاء الاصطناعي</h1>
+            <p>اكتشف عالماً من المعرفة والتكنولوجيا</p>
+        </section>
+
+        <section id="services">
+            <h2>خدماتنا</h2>
+            <div class="service-grid">
+                <div class="service-item">
+                    <h3>الترجمة الآلية</h3>
+                    <input type="text" id="translate-input" placeholder="أدخل النص للترجمة">
+                    <button onclick="translateText()">ترجم</button>
+                    <p id="translate-output"></p>
+                </div>
+                <div class="service-item">
+                    <h3>تحويل النص إلى صوت</h3>
+                    <textarea id="tts-input" placeholder="أدخل النص لتحويله إلى صوت"></textarea>
+                    <button onclick="textToSpeech()">تحويل إلى صوت</button>
+                    <audio id="tts-audio" controls></audio>
+                </div>
+                <div class="service-item">
+                    <h3>البحث الذكي</h3>
+                    <input type="text" id="search-input" placeholder="ابحث في المكتبة">
+                    <button onclick="searchLibrary()">بحث</button>
+                    <ul id="search-results"></ul>
+                </div>
+                <div class="service-item">
+                    <h3>البحث الصوتي</h3>
+                    <button onclick="startVoiceSearch()">ابدأ البحث الصوتي</button>
+                    <p id="voice-search-result"></p>
+                </div>
+            </div>
+        </section>
+
+        <section id="about">
+            <h2>عن المكتبة</h2>
+            <p>مكتبة الذكاء الاصطناعي هي مركز للمعرفة والابتكار، نقدم أحدث التقنيات في مجال الذكاء الاصطناعي لمساعدتك في التعلم والبحث.</p>
+        </section>
+
+        <section id="contact">
+            <h2>اتصل بنا</h2>
+            <form>
+                <input type="text" placeholder="الاسم" required>
+                <input type="email" placeholder="البريد الإلكتروني" required>
+                <textarea placeholder="رسالتك" required></textarea>
+                <button type="submit">إرسال</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 مكتبة الذكاء الاصطناعي. جميع الحقوق محفوظة.</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

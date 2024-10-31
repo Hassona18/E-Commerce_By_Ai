@@ -1,0 +1,13 @@
+These requirements focus on what the end-users expect from the platform.
+
+    Users must be able to:
+        Register, log in, and manage their accounts securely.
+        Browse, search, and purchase e-books easily.
+        View personalized recommendations for books.
+        Manage their shopping cart, wishlist, and track orders.
+        Make secure payments using various gateways like Stripe or PayPal.
+        Interact with an AI-powered chatbot for support and book suggestions.
+        Receive notifications via email/SMS about order status, discounts, and new arrivals.
+        Choose between light and dark modes for better user experience.
+        Access the platform from multiple devices with a responsive design.
+        Experience multilingual support for global accessibility.

@@ -1,0 +1,30 @@
+These are the specific tasks or actions the system must perform.
+
+    User Registration & Authentication:
+        Allow users to sign up, log in, and recover passwords.
+        Implement OAuth for social media authentication (Google, Facebook).
+
+    Book Listings:
+        Display book details (title, author, price, description, etc.).
+        Enable category filtering and search functionality with AI optimization.
+
+    Shopping Cart:
+        Users should be able to add, update, or remove items from their cart.
+
+    Order Management:
+        Allow users to track order history and status.
+        Send notifications about order confirmations, shipping, and delivery.
+
+    Payments:
+        Integrate with payment gateways for secure transactions.
+        Display order summaries before payment and handle payment success/failure.
+
+    AI Features:
+        Recommend books based on user preferences.
+        Enhance search functionality with AI to provide more relevant results.
+        Sentiment analysis on book reviews for user feedback.
+        AI-powered chatbot for user interaction and support.
+
+    Admin Dashboard:
+        Manage books (CRUD operations), users, and orders.
+        View analytics on sales and user engagement.
